@@ -1,4 +1,4 @@
-boto4
+boto5
 from flask import Flask
 
 app = Flask(__name__)
