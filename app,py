@@ -1,6 +1,10 @@
 boto5
 from flask import Flask
+
 ubuntu
+
+linux
+
 app = Flask(__name__)
 
 @app.route('/')
